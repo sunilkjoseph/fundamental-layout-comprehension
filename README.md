@@ -1,8 +1,8 @@
-# Layout Task
+# Fundamental Layout Comprehension
 
 ## Table of Contents
 
-- [Project Title](#layout-task)
+- [Project Title](#fundamental-layout-comprehension)
   - [Description](#description)
   - [Features](#features)
   - [Getting Started](#getting-started)
